@@ -1,2 +1,0 @@
-# shibariVA
-Shibari VA
